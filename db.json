@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "contact": {
+        "name": "Yurii Melnyk",
+        "number": "459-12-56"
+      },
+      "id": 1
+    },
+    {
+      "contact": {
+        "name": "Yurii Melnyk",
+        "number": "459-12-56"
+      },
+      "id": 2
+    },
+    {
+      "contact": {
+        "name": "MeJI",
+        "number": "459-12-56"
+      },
+      "id": 3
+    }
+  ]
+}
